@@ -7,7 +7,7 @@ body {
 .post-list {
   &__login-btn {
     .root--authed & {
-      display: none;
+      display: none; //asdf
     }
   }
 
